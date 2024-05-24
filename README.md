@@ -53,12 +53,26 @@ Here are some of my MERN stack projects:
 
 Feel free to explore these projects to get a better understanding of my skills and experience in building MERN stack applications.
 
-### 💻 GitHub Profile Cards
+#### GitHub Stats Card
 
-- **GitHub Stats Card**: Display your GitHub stats, including stars, forks, and issues.
-- **GitHub Streak Stats Card**: Showcase your contribution streak.
-- **Top Languages Card**: Highlight your most used programming languages.
-- **GitHub Profile Trophy Card**: Showcase your achievements and awards.
-- **GitHub Readme Stats Card**: Customize and display your GitHub stats.
-- **GitHub Activity Graph Card**: Visualize your contributions over time.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
 
+#### GitHub Streak Stats Card
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical)
+
+#### Top Languages Card
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
+
+#### GitHub Profile Trophy Card
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical)
+
+#### GitHub Readme Stats Card
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
+
+#### GitHub Activity Graph Card
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AswinArsha&theme=react-dark)
