@@ -52,3 +52,13 @@ Here are some of my MERN stack projects:
 
 
 Feel free to explore these projects to get a better understanding of my skills and experience in building MERN stack applications.
+
+### 💻 GitHub Profile Cards
+
+- **GitHub Stats Card**: Display your GitHub stats, including stars, forks, and issues.
+- **GitHub Streak Stats Card**: Showcase your contribution streak.
+- **Top Languages Card**: Highlight your most used programming languages.
+- **GitHub Profile Trophy Card**: Showcase your achievements and awards.
+- **GitHub Readme Stats Card**: Customize and display your GitHub stats.
+- **GitHub Activity Graph Card**: Visualize your contributions over time.
+
