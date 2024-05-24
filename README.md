@@ -34,20 +34,14 @@ I'm a passionate software developer with a keen interest in exploring the world 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical" alt="GitHub Streak" width="50%">
 </p>
 
-#### GitHub Streak Stats Card
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical)
-
-#### Top Languages Card
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
-
-#### GitHub Profile Trophy Card
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical" alt="Top Languages" width="50%">
+  <img src="https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical" alt="GitHub Trophies" width="50%">
+</p>
 
 
 ### 🔗 Links
