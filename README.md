@@ -34,7 +34,7 @@ I'm a passionate software developer with a keen interest in exploring the world 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagannath-p-s&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ### 🔗 Links
@@ -49,22 +49,6 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
 Here are some of my MERN stack projects:
 
-1. **Rolodeck**: A MERN stack application that creates and collects business cards with QR Codes[4].
 
-2. **ProShop**: An eCommerce platform built with the MERN stack & Redux[5].
-
-3. **CardGenius**: A web application that generates ID cards using the MERN stack[6].
-
-4. **Musicart**: A MERN Stack Shopping App where users can view products, add them to the cart, and buy them directly with the help of Stripe card payment[7].
 
 Feel free to explore these projects to get a better understanding of my skills and experience in building MERN stack applications.
-
-Citations:
-[1] https://github.com/jagannath-p-s
-[2] https://readme-typing-svg.herokuapp.com/?center=true&color=%2336BCF7&lines=Passionate+Software+Developer&vCenter=true
-[3] https://www.linkedin.com/in/aswin-m-v-a82841253
-[4] https://github.com/parkerrobison/Rolodeck
-[5] https://github.com/bradtraversy/proshop_mern
-[6] https://github.com/itxSaaad/cardgenius-app-mern
-[7] https://github.com/hitesh1coder/Musicart_client
-[8] https://github.com/topics/mern-stack-project
