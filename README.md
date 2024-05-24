@@ -37,6 +37,19 @@ I'm a passionate software developer with a keen interest in exploring the world 
   <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
+#### GitHub Streak Stats Card
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical)
+
+#### Top Languages Card
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
+
+#### GitHub Profile Trophy Card
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical)
+
+
 ### 🔗 Links
 
 - **Resume**: [resume.aswin.pdf](https://resume.aswinmv.pdf)
@@ -53,26 +66,9 @@ Here are some of my MERN stack projects:
 
 Feel free to explore these projects to get a better understanding of my skills and experience in building MERN stack applications.
 
-#### GitHub Stats Card
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
 
-#### GitHub Streak Stats Card
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical)
 
-#### Top Languages Card
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
 
-#### GitHub Profile Trophy Card
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical)
-
-#### GitHub Readme Stats Card
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
-
-#### GitHub Activity Graph Card
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AswinArsha&theme=react-dark)
