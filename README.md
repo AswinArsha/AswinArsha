@@ -1,64 +1,79 @@
-# 👋 Hi, I'm Aswin M V
 
-**MERN Stack Developer specializing in Front End Development**
+# Hi there, I'm Aswin M V 👋
 
-
----
-
-### 🛠️ Tools & Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+### MERN Stack Developer | Front-End Specialist
 
 ---
 
-### 📈 GitHub Stats
-
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
-
----
-
-### 🌟 Projects
-
-#### Project 1: [Project Name](https://github.com/AswinArsha/ProjectName)
-A brief description of what this project is about.
-
-#### Project 2: [Project Name](https://github.com/AswinArsha/ProjectName)
-A brief description of what this project is about.
-
-#### Project 3: [Project Name](https://github.com/AswinArsha/ProjectName)
-A brief description of what this project is about.
-
-For more projects, visit my [GitHub repositories](https://github.com/AswinArsha?tab=repositories).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20M%20V-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha)
+[![Gmail](https://img.shields.io/badge/Gmail-aswinmv13%40gmail.com-red?style=flat&logo=gmail)](mailto:aswinmv13@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@AswinMV13-1DA1F2?style=flat&logo=twitter)](https://x.com/AswinMV13)
+![GitHub followers](https://img.shields.io/github/followers/AswinArsha?label=Follow&style=social)
 
 ---
 
-### 📫 Contact Me
+## 🌟 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aswinmv13@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/AswinMV13)
+I am a passionate MERN Stack Developer with a strong focus on front-end development. I love creating interactive, responsive, and dynamic web applications using modern web technologies. 
 
 ---
 
-### 🌐 Let's Connect
+## 🛠️ Tech Stack
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha), drop me an email at [aswinmv13@gmail.com](mailto:aswinmv13@gmail.com), or follow me on [Twitter](https://x.com/AswinMV13). Looking forward to connecting with you!
+**Languages:**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+
+**Frameworks and Libraries:**
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+
+**Databases:**
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+
+**Cloud Platforms:**
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)
+
+**Tools:**
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ---
 
-⭐️ From [Aswin M V](https://github.com/AswinArsha)
+## 📈 GitHub Stats
+
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projects
+
+### [Project 1: Amazing Project](https://github.com/AswinArsha/AmazingProject)
+Description: A brief description of the project, technologies used, and key features.
+
+### [Project 2: Another Cool Project](https://github.com/AswinArsha/AnotherCoolProject)
+Description: A brief description of the project, technologies used, and key features.
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: [Aswin M V](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha)
+- Gmail: [aswinmv13@gmail.com](mailto:aswinmv13@gmail.com)
+- Twitter: [@AswinMV13](https://x.com/AswinMV13)
+
+---
+
+Feel free to reach out if you have any questions or just want to connect! I'm always open to new opportunities and collaborations.
+
+![Profile views](https://komarev.com/ghpvc/?username=AswinArsha&color=blue&style=flat)
+```
