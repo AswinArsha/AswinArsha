@@ -60,4 +60,4 @@ I'm a passionate MERN Stack Developer with a knack for building efficient and sc
 
 Feel free to reach out if you want to discuss technology, coding or any exciting projects. Let's connect and create something amazing!
 
-![Profile views](https://gpvc.arturio.dev/AswinArsha)
+
