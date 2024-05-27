@@ -1,43 +1,37 @@
-## Hi there, I'm Aswin M V 👋
+# Hi there, I'm Aswin M V 👋
 
-<p align="center">
-  <a href="https://github.com/jagannath-p-s">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=%2336BCF7&lines=Passionate+Software+Developer" alt="Passionate Software Developer">
-  </a>
-</p>
+I am a MERN stack developer with a focus on front-end development. I enjoy building scalable web applications and working with cutting-edge technologies.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aswin-m-v-a82841253">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:aswinmv13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/AswinMV13">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+## 🛠️ Tools & Technologies
 
----
+### Languages
+- JavaScript
+- C++
 
-### 🚀 About Me
+### Front-End
+- React.js
 
-I'm a passionate software developer with a keen interest in exploring the world of technology. I'm always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry. As a MERN stack developer, I have experience building modern and responsive web applications using React.js, Node.js, Express.js, and MongoDB.
+### Back-End
+- Node.js
+- Express.js
 
----
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-### 🛠️ Skills
+### Cloud Services
+- AWS
+- Google Cloud
 
-- **Programming Languages**: JavaScript, C++
-- **Frameworks and Libraries**: React.js, Node.js, Express.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, Android Studio, Docker
+### DevOps & Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Android Studio
+- Docker
 
----
-
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
@@ -49,23 +43,12 @@ I'm a passionate software developer with a keen interest in exploring the world 
   <img src="https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical" alt="GitHub Trophies" width="45%">
 </p>
 
----
+## 🔗 Connect with Me
 
-### 🔗 Links
-
-- **Resume**: [resume.aswin.pdf](https://resume.aswinmv.pdf)
-
----
-
-### 💻 MERN Stack Projects
-
-Here are some of my MERN stack projects:
-- **Project 1**: [Link to Project 1](https://github.com/AswinArsha/project1)
-- **Project 2**: [Link to Project 2](https://github.com/AswinArsha/project2)
-- **Project 3**: [Link to Project 3](https://github.com/AswinArsha/project3)
+- [LinkedIn](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha)
+- [X (formerly Twitter)](https://x.com/AswinMV13)
+- [Email](mailto:aswinmv13@gmail.com)
 
 ---
 
-### 🤝 Let's Connect
-
-Feel free to reach out to me if you have any questions, ideas, or just want to chat about technology. I'm always happy to connect with like-minded individuals and explore new opportunities.
+⭐️ From [Aswin M V](https://github.com/AswinArsha)
