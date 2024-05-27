@@ -1,79 +1,64 @@
-# Welcome to My GitHub Profile! 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=brightgreen)
-
-## Hi there! 👋
-
-I am [Your Name], a passionate developer with a knack for building awesome projects. Welcome to my GitHub profile! Here, you'll find a collection of my work, skills, and contributions to the open-source community.
-
----
+# 👋 Hi, I'm Aswin M V
 
 ## 🚀 About Me
+I am a passionate **MERN Stack Developer** with a primary focus on front-end development. I love building user-friendly web applications and constantly learning new technologies.
 
-- 🔭 I’m currently working on [Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO)
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Email](mailto:YOUR_EMAIL) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
-- ⚡ Fun fact: [Something Interesting About You]
-
----
+- 💼 Currently working on enhancing my skills in front-end development.
+- 🎓 I have experience in various programming languages and tools.
+- 🌱 Always eager to learn and explore new technologies.
 
 ## 🛠️ Skills
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=C++)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Other Skills](https://img.shields.io/badge/Other_Skills-333333?style=for-the-badge&logo=OTHER_SKILL&logoColor=white)
+### Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=Redux)
 
----
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=Express)
 
-## 📝 Latest Blog Posts
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB)
 
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title](https://yourblog.com/your-blog-post)
-- [Another Blog Post Title](https://yourblog.com/another-blog-post)
-<!-- BLOG-POST-LIST:END -->
+### Cloud & Hosting
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?&logo=Google-Cloud)
 
----
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)
 
-## 📊 GitHub Stats
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?&logo=Visual-Studio-Code)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?&logo=Android-Studio)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## 📈 GitHub Stats
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical)
 
----
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical)
 
-## 📈 GitHub Streak
+## 📂 Projects
+Here are some of my notable projects:
+- **[Project 1](https://github.com/AswinArsha/Project1):** Brief description of project 1.
+- **[Project 2](https://github.com/AswinArsha/Project2):** Brief description of project 2.
+- **[Project 3](https://github.com/AswinArsha/Project3):** Brief description of project 3.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+## 📫 How to Reach Me
+- **Gmail:** [aswinmv13@gmail.com](mailto:aswinmv13@gmail.com)
+- **LinkedIn:** [Aswin M V](https://www.linkedin.com/in/aswin-m-v-a82841253?original_referer=https%3A%2F%2Fgithub.com%2FAswinArsha)
+- **X (formerly Twitter):** [AswinMV13](https://x.com/AswinMV13)
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
-
----
-
-## 💼 Projects
-
-### [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1)
-Description of project 1. Highlight key features and technologies used.
-
-### [Project 2](https://github.com/YOUR_USERNAME/PROJECT_2)
-Description of project 2. Highlight key features and technologies used.
-
-### [More Projects...](https://github.com/YOUR_USERNAME?tab=repositories)
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## 🌟 Let's Connect
+Feel free to connect with me on LinkedIn or follow me on GitHub to stay updated on my latest projects and contributions.
 
 ---
 
+*Thank you for visiting my profile!*
