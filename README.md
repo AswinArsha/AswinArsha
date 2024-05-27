@@ -28,12 +28,7 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: JavaScript, C++
-- **Frameworks and Libraries**: React.js, Node.js, Express.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, Android Studio, Docker
+![JavaScript](https://example.com/javascript-icon.png) ![C++](https://example.com/cpp-icon.png) ![React.js](https://example.com/react-icon.png) ![Node.js](https://example.com/nodejs-icon.png) ![Express.js](https://example.com/express-icon.png) ![MySQL](https://example.com/mysql-icon.png) ![PostgreSQL](https://example.com/postgresql-icon.png) ![MongoDB](https://example.com/mongodb-icon.png) ![AWS](https://example.com/aws-icon.png) ![Google Cloud](https://example.com/google-cloud-icon.png) ![Git](https://example.com/git-icon.png) ![GitHub](https://example.com/github-icon.png) ![Visual Studio Code](https://example.com/vscode-icon.png) ![Android Studio](https://example.com/android-studio-icon.png) ![Docker](https://example.com/docker-icon.png)
 
 ---
 
