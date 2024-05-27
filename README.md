@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jagannath-p-s">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=%2336BCF7&lines=Passionate+Software+Developer" alt="Passionate Software Developer">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=%2336BCF7&lines=Passionate+MERN+Stack+Developer" alt="Passionate Software Developer">
   </a>
 </p>
 
