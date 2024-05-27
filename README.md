@@ -28,24 +28,29 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ## 🛠️ Skills
 
-### Programming Languages
-![JavaScript](https://example.com/javascript-icon.png) ![C++](https://example.com/cpp-icon.png)
-
-### Frameworks and Libraries
-![React.js](https://example.com/react-icon.png) ![Node.js](https://example.com/nodejs-icon.png) ![Express.js](https://example.com/express-icon.png)
-
-### Databases
-![MySQL](https://example.com/mysql-icon.png) ![PostgreSQL](https://example.com/postgresql-icon.png) ![MongoDB](https://example.com/mongodb-icon.png)
-
-### Cloud Platforms
-![AWS](https://example.com/aws-icon.png) ![Google Cloud](https://example.com/google-cloud-icon.png)
-
-### Version Control
-![Git](https://example.com/git-icon.png) ![GitHub](https://example.com/github-icon.png)
-
-### Tools
-![Visual Studio Code](https://example.com/vscode-icon.png) ![Android Studio](https://example.com/android-studio-icon.png) ![Docker](https://example.com/docker-icon.png)
-
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-47A248?style=flat&logo=Supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
 ---
 
