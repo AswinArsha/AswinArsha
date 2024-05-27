@@ -1,4 +1,4 @@
-# Hi there, I'm Aswin M V 👋
+# Hi there, I'm Aswin M V! 👋
 
 I'm a passionate MERN Stack Developer with a knack for building efficient and scalable web applications. I love to explore new technologies and constantly improve my skills. Below is a bit more about me and the technologies I work with.
 
@@ -50,6 +50,20 @@ I'm a passionate MERN Stack Developer with a knack for building efficient and sc
 
 ---
 
+## 📊 GitHub Stats
+
+![Aswin M V's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical)
+
+---
+
+## 📂 Projects
+
+- [Project Name](link): Brief description of the project.
+- [Project Name](link): Brief description of the project.
+- [Project Name](link): Brief description of the project.
+
+---
+
 ## 📫 Connect with Me
 
 - GitHub: [AswinArsha](https://github.com/AswinArsha)
@@ -58,6 +72,4 @@ I'm a passionate MERN Stack Developer with a knack for building efficient and sc
 
 ---
 
-Feel free to reach out if you want to discuss technology, coding or any exciting projects. Let's connect and create something amazing!
-
-
+Feel free to reach out if you want to discuss technology, coding, or any exciting projects. Let's connect and create something amazing!
