@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aswin M V
 
 **MERN Stack Developer specializing in Front End Development**
+![Profile Views](https://komarev.com/ghpvc/?username=AswinArsha&color=blueviolet&style=flat-square)
 
 ---
 
