@@ -28,7 +28,24 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ## 🛠️ Skills
 
-![JavaScript](https://example.com/javascript-icon.png) ![C++](https://example.com/cpp-icon.png) ![React.js](https://example.com/react-icon.png) ![Node.js](https://example.com/nodejs-icon.png) ![Express.js](https://example.com/express-icon.png) ![MySQL](https://example.com/mysql-icon.png) ![PostgreSQL](https://example.com/postgresql-icon.png) ![MongoDB](https://example.com/mongodb-icon.png) ![AWS](https://example.com/aws-icon.png) ![Google Cloud](https://example.com/google-cloud-icon.png) ![Git](https://example.com/git-icon.png) ![GitHub](https://example.com/github-icon.png) ![Visual Studio Code](https://example.com/vscode-icon.png) ![Android Studio](https://example.com/android-studio-icon.png) ![Docker](https://example.com/docker-icon.png)
+### Programming Languages
+![JavaScript](https://example.com/javascript-icon.png) ![C++](https://example.com/cpp-icon.png)
+
+### Frameworks and Libraries
+![React.js](https://example.com/react-icon.png) ![Node.js](https://example.com/nodejs-icon.png) ![Express.js](https://example.com/express-icon.png)
+
+### Databases
+![MySQL](https://example.com/mysql-icon.png) ![PostgreSQL](https://example.com/postgresql-icon.png) ![MongoDB](https://example.com/mongodb-icon.png)
+
+### Cloud Platforms
+![AWS](https://example.com/aws-icon.png) ![Google Cloud](https://example.com/google-cloud-icon.png)
+
+### Version Control
+![Git](https://example.com/git-icon.png) ![GitHub](https://example.com/github-icon.png)
+
+### Tools
+![Visual Studio Code](https://example.com/vscode-icon.png) ![Android Studio](https://example.com/android-studio-icon.png) ![Docker](https://example.com/docker-icon.png)
+
 
 ---
 
