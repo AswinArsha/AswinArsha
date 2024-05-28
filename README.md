@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://example.com/banner.png" alt="Banner" width="100%">
+</p>
+
 # Hi there, I'm Aswin M V! 👋
 
 <p align="center">
-  <a href="https://github.com/jagannath-p-s">
+  <a href="https://github.com/AswinArsha">
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=%2336BCF7&lines=Passionate+MERN+Stack+Developer" alt="Passionate Software Developer">
   </a>
 </p>
@@ -22,33 +26,69 @@
 
 ## 🚀 About Me
 
+<img src="https://example.com/profile.png" alt="Profile Picture" align="right" width="200">
+
 I'm a passionate software developer with a keen interest in exploring the world of technology. Always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry. As a MERN stack developer, I specialize in building modern and responsive web applications using React.js, Node.js, Express.js, and MongoDB.
+
+With [X] years of experience in the field, I have worked on various projects and collaborated with talented teams to deliver high-quality solutions. I am driven by the desire to create innovative and efficient applications that solve real-world problems.
 
 ---
 
 ## 🛠️ Skills
 
+#### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+
+#### Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+
+#### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-47A248?style=flat&logo=Supabase&logoColor=white)
+
+#### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+#### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+---
+
+## 💻 Featured Projects
+
+### Project 1
+<img src="https://example.com/project1.png" alt="Project 1" width="400">
+
+- **Description:** A brief description of the project and its purpose.
+- **Technologies:** List of technologies used in the project.
+- **Key Features:** Highlight the main features and functionalities of the project.
+- **Live Demo:** [Link to live demo](https://example.com/project1-demo)
+- **Repository:** [Link to GitHub repository](https://github.com/AswinArsha/project1)
+
+### Project 2
+<img src="https://example.com/project2.png" alt="Project 2" width="400">
+
+- **Description:** A brief description of the project and its purpose.
+- **Technologies:** List of technologies used in the project.
+- **Key Features:** Highlight the main features and functionalities of the project.
+- **Live Demo:** [Link to live demo](https://example.com/project2-demo)
+- **Repository:** [Link to GitHub repository](https://github.com/AswinArsha/project2)
 
 ---
 
@@ -66,19 +106,21 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ---
 
-## 💻 MERN Stack Projects
-
-Here are some of my MERN stack projects:
-
-- **[Project 1](https://github.com/AswinArsha/project1)**
-- **[Project 2](https://github.com/AswinArsha/project2)**
-- **[Project 3](https://github.com/AswinArsha/project3)**
-
----
-
 ## 🤝 Let's Connect
 
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about technology. I'm always happy to connect with like-minded individuals and explore new opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aswin-m-v-a82841253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:aswinmv13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/AswinMV13">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 ---
 
