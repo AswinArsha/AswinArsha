@@ -70,36 +70,15 @@ With [X] years of experience in the field, I have worked on various projects and
 
 ---
 
-## 💻 Featured Projects
-
-### Project 1
-<img src="https://example.com/project1.png" alt="Project 1" width="400">
-
-- **Description:** A brief description of the project and its purpose.
-- **Technologies:** List of technologies used in the project.
-- **Key Features:** Highlight the main features and functionalities of the project.
-- **Live Demo:** [Link to live demo](https://example.com/project1-demo)
-- **Repository:** [Link to GitHub repository](https://github.com/AswinArsha/project1)
-
-### Project 2
-<img src="https://example.com/project2.png" alt="Project 2" width="400">
-
-- **Description:** A brief description of the project and its purpose.
-- **Technologies:** List of technologies used in the project.
-- **Key Features:** Highlight the main features and functionalities of the project.
-- **Live Demo:** [Link to live demo](https://example.com/project2-demo)
-- **Repository:** [Link to GitHub repository](https://github.com/AswinArsha/project2)
-
----
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical" alt="Top Languages" width="45%">
   <img src="https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical" alt="GitHub Trophies" width="45%">
 </p>
