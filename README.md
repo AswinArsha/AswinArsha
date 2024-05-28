@@ -76,9 +76,6 @@ With [X] years of experience in the field, I have worked on various projects and
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=AswinArsha&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinArsha&theme=radical" alt="GitHub Streak" width="45%">
-</p>
-
-<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArsha&layout=compact&theme=radical" alt="Top Languages" width="45%">
   <img src="https://github-profile-trophy.vercel.app/?username=AswinArsha&theme=radical" alt="GitHub Trophies" width="45%">
 </p>
