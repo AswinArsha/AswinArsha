@@ -34,7 +34,6 @@ I'm a passionate software developer with a keen interest in exploring the world 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
