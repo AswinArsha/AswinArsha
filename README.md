@@ -70,9 +70,6 @@ With [X] years of experience in the field, I have worked on various projects and
 
 ---
 
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
