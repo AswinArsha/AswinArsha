@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://example.com/banner.png" alt="Banner" width="100%">
-</p>
+
 
 # Hi there, I'm Aswin M V! 👋
 
@@ -30,7 +28,6 @@
 
 I'm a passionate software developer with a keen interest in exploring the world of technology. Always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry. As a MERN stack developer, I specialize in building modern and responsive web applications using React.js, Node.js, Express.js, and MongoDB.
 
-With [X] years of experience in the field, I have worked on various projects and collaborated with talented teams to deliver high-quality solutions. I am driven by the desire to create innovative and efficient applications that solve real-world problems.
 
 ---
 
