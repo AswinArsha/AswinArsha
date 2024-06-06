@@ -24,7 +24,6 @@
 
 ## 🚀 About Me
 
-<img src="https://example.com/profile.png" alt="Profile Picture" align="right" width="200">
 
 I'm a passionate software developer with a keen interest in exploring the world of technology. Always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry. As a MERN stack developer, I specialize in building modern and responsive web applications using React.js, Node.js, Express.js, and MongoDB.
 
