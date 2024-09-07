@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on<br>A billing software project focused on generating invoices, tracking expenses, and managing client details.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those involving React, Tailwind, Supabase, or other modern JavaScript frameworks.<br>Open-source contributions in the areas of UI/UX design and front-end development.<br><br>🌱 I’m currently learning<br>Advanced TypeScript for better type safety in large-scale projects.<br>Best practices for database management and optimization using Supabase.<br><br>⚡ Fun fact<br>I love playing games and watching anime or reading manga!<br>
+👨‍💻 I’m currently working on<br>A billing software project focused on generating invoices, tracking expenses, and managing client details.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those involving React, Tailwind, Supabase, or other modern JavaScript frameworks.
 
 
 ## 🌐 Socials:
