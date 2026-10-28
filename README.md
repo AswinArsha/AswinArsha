@@ -4,7 +4,7 @@ I build web applications for businesses, from customer-facing websites to the da
 
 My recent work centres on commerce, CRM, billing, and NFC/QR products. I enjoy connecting a clear interface with the database, payments, and day-to-day workflows that make it useful.
 
-[LinkedIn](https://www.linkedin.com/in/aswin-m-v-a82841253/) · [WhiteTag](https://whitetag.in) · [Instagram](https://www.instagram.com/aswin.mv.777/)
+[LinkedIn](https://www.linkedin.com/in/aswin-m-v-a82841253/) · [WhiteTag](https://whitetag.in)
 
 ## Current work
 
